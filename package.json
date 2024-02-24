@@ -1,6 +1,6 @@
 {
-    "name": "web-project-boilerplate", 
-    "version": "1.0.0",
+    "name": "web-project-boilerplate-ryuen", 
+    "version": "1.0.1",
     "description": "Boilerplate generator for web projects with webpack",
     "main": "index.js",
     "scripts": {
@@ -16,7 +16,7 @@
     "license": "MIT",
     "repository": {
       "type": "git", 
-      "url": "your-github-repo-url" 
+      "url": "https://github.com/fatidaprilian/my-boilerplate.git" 
     },
     "files": [
       "index.js",
