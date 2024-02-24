@@ -36,4 +36,4 @@ This project is open source under the [MIT license](LICENSE.md).
 
 Ryuen - [@ryuen215](https://twitter.com/ryuen215) 
 
-Project Link: [https://github.com/fatidaprilian/my-boilerplate](https://github.com/fatidaprilian/my-boilerplat)
+Project Link: [https://github.com/fatidaprilian/my-boilerplate](https://github.com/fatidaprilian/my-boilerplate)
