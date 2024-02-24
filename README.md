@@ -34,8 +34,6 @@ This project is open source under the [MIT license](LICENSE.md).
 
 ## Contact
 
-John Doe - [@john_doe](https://twitter.com/john_doe) 
+John Doe - [@ryuen215](https://twitter.com/ryuen215) 
 
-Project Link: [https://github.com/mygithub/boilerplate](https://github.com/mygithub/boilerplate)
-
-Saya lampirkan contoh konten README untuk projek boilerplate web Anda. Silakan disesuaikan lagi dengan kebutuhan.
+Project Link: [https://github.com/fatidaprilian/my-boilerplate](https://github.com/fatidaprilian/my-boilerplat)
