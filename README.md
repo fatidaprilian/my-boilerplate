@@ -1,5 +1,3 @@
-Baik, berikut ini contoh README.md untuk boilerplate web project yang telah Anda buat sebelumnya:
-
 # Web Project Boilerplate
 
 This is a boilerplate generator for web projects using Webpack, Yeoman, and Node.js. It provides a solid foundation to kickstart your development.
