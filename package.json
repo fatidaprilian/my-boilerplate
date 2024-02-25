@@ -1,6 +1,6 @@
 {
-    "name": "web-project-boilerplate-ryuen", 
-    "version": "1.0.2",
+    "name": "generator-web-project-boilerplate", 
+    "version": "1.0.5",
     "description": "Boilerplate generator for web projects with webpack",
     "main": "index.js",
     "scripts": {
@@ -21,7 +21,8 @@
     "files": [
       "index.js",
       "generators",
-      "webpack.config.js"
+      "webpack.config.js",
+      "src"
     ],
     "dependencies": {
       "webpack": "^5.75.0",
