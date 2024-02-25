@@ -20,7 +20,7 @@ Getting started:
 
 - Clone this repository 
 - Install dependencies: `npm install`
-- Run generator: `npx yo web-project-boilerplate`  
+- Run generator: `npx yo generator-web-project-boilerplate`  
 - Start coding in `src` folder! 
 - Bundle code: `npm run build`
 
