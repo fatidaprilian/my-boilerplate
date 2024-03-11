@@ -20,7 +20,7 @@ Getting started:
 
 - Clone this repository 
 - Install dependencies: `npm install`
-- Run generator: `npm install generator-web-project-boilerplate`  
+- Run generator: `yo web-project-boilerplate`  
 - Start coding in `src` folder! 
 - Bundle code: `npm run build`
 
