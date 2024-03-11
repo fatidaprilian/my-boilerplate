@@ -1,31 +1,33 @@
 {
-    "name": "generator-web-project-boilerplate", 
-    "version": "1.0.6",
+    "name": "web-project-boilerplate",
+    "version": "1.0.11",
     "description": "Boilerplate generator for web projects with webpack",
     "main": "index.js",
     "scripts": {
-      "build": "webpack --mode=production",  
-      "dev": "webpack --mode=development"  
+        "build": "webpack --mode=production",
+        "dev": "webpack --mode=development"
     },
     "keywords": [
-      "boilerplate",
-      "webpack",
-      "generator"
+        "boilerplate",
+        "webpack",
+        "generator"
     ],
     "author": "Ryuen",
     "license": "MIT",
     "repository": {
-      "type": "git", 
-      "url": "https://github.com/fatidaprilian/my-boilerplate.git" 
+        "type": "git",
+        "url": "https://github.com/fatidaprilian/my-boilerplate.git"
     },
     "files": [
-      "index.js",
-      "generators",
-      "webpack.config.js"
+        "index.js",
+        "generators",
+        "webpack.config.js"
     ],
     "dependencies": {
-      "webpack": "^5.75.0",
-      "webpack-cli": "^5.0.1",
-      "yeoman-generator": "^5.7.0"
+        "calculatorbersatu": "^0.0.7",
+        "validation-form-library": "^1.0.3",
+        "webpack": "^5.75.0",
+        "webpack-cli": "^5.0.1",
+        "yeoman-generator": "^5.7.0"
     }
-  }
+}
